@@ -5,7 +5,7 @@ Currently the following boards are supported.
 * ESP32 NodeMCU Dev Kit C v2
 * Xiao nRF52840
 * Xiao RP2040
-* 'NodeMCU ESP32-WROOM-32D
+* NodeMCU ESP32-WROOM-32D
 
 ![Render for large module](https://github.com/RedGreenGeek/Parametric_MCU_dev_case/blob/main/ESP32_NodeMCU_DevKit_C_v2_Case.png?raw=true)
 
