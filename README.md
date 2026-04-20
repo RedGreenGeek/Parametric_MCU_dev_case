@@ -6,6 +6,7 @@ Currently the following boards are supported.
 * Xiao nRF52840
 * Xiao RP2040
 * NodeMCU ESP32-WROOM-32D
+* Xiao RP2350
 
 Documentation is in the [Labitat wiki](https://labitat.dk/wiki/Parametric_MCU_dev_case)
 
